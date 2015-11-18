@@ -1,0 +1,27 @@
+{
+  "name": "Slingshot",
+  "version": "1.0.0",
+  "authors": [
+    "djones@mullen.com"
+  ],
+  "description": "Front-end framework",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.*",
+    "normalize.css": "latest",
+    "animate.css": "latest",
+    "susy": "latest",
+    "sass-easing": "latest"
+  }
+}

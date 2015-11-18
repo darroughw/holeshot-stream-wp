@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["me","don","complete"],"mappings":"AAGA,QAASA,MACR,OAAO,EAJR,GAAIC,KAAM,EACNC,UAAW","file":"app.js","sourcesContent":["var don = 1;\nvar complete = false;\n\nfunction me(){\n\treturn true;\n}"],"sourceRoot":"/source/"}

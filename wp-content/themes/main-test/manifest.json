@@ -1,0 +1,9 @@
+{
+	"devDest": "/wp-content/themes/main-dev",
+	"testDest": "../main-test",
+	"prodDest": "../main",
+	"assets": "",
+	"hostname": "slingshot-wp.dev",
+	"env": "test",
+	"theme": "main-dev"
+}
